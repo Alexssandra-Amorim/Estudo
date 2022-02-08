@@ -1,4 +1,4 @@
-aprendendo sobre git
+tutorial avançado de git doidera
 baixar arquivo via terminal
 entrar no arquivo via terminal
 ou entrar no arquivo via VScode 
