@@ -1,0 +1,5 @@
+aprendendo sobre git
+baixar arquivo via terminal
+entrar no arquivo via terminal
+ou entrar no arquivo via VScode 
+
